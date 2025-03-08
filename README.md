@@ -10,7 +10,7 @@ This repository provides a **Jinja2-based prompt management system** with **vers
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/jinja-prompt-manager.git
+   git clone https://github.com/maylad31/jinja-prompt-manager.git
    cd jinja-prompt-manager
    ```
 2. Install dependencies:
