@@ -1,10 +1,10 @@
 # jinja-prompt-manager
 
-This repository provides a **Jinja2-based prompt management system** with **versioning, scoring, and production selection** for LLMs (Large Language Models). Jinja2 allows for the creation of templates that can adapt based on user input or context. This flexibility is particularly useful when prompts need to change dynamically. For example, you can include conditional statements and loops directly within the template to adjust the output based on provided variables.
+This repository provides a **Jinja2-based prompt management system** with **versioning, scoring, and production selection** for LLMs (Large Language Models). Jinja2 allows for the creation of templates that can adapt based on user input or context. This flexibility is particularly useful when prompts need to change dynamically. For example, you can include conditional statements and loops directly within the template to adjust the output based on provided variables. Still some work is needed.
 
 ## ✨ Features
 - **Jinja2-based templating** for dynamic prompt generation using a sandboxed Jinja2 instance
-- **Versioning system** to track multiple iterations of prompts, score prompts and select prompts for production
+- **Versioning system** to track and score prompts and finally select the best prompts for production
 
 ## 📦 Installation
 
