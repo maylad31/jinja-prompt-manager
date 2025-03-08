@@ -96,7 +96,7 @@ remove_db()
 ```
 
 ## 🛠️ Requirements
-- Python 3.8+
+- Python 3.10+
 - Jinja2
 
 ## 📝 License
